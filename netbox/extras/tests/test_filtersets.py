@@ -1160,6 +1160,7 @@ class TagTestCase(TestCase, ChangeLoggedFilterSetTests):
         'module',
         'modulebay',
         'moduletype',
+        'moduletypeprofile',
         'platform',
         'powerfeed',
         'poweroutlet',
